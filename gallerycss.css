@@ -1,0 +1,89 @@
+.ok
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+#ook
+{
+    width: 700px;
+}
+
+#ok11
+{
+    width: 450px;
+}
+
+.ok2
+{
+    margin-top:20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#ok22
+{
+    width: 750px;
+}
+
+#ok33
+{
+    width: 650px;
+}
+
+#ok44
+{
+    width: 350px;
+}
+
+
+.ok3
+{
+    margin-top:20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#ok222
+{
+    width: 700px;
+}
+
+#ok333
+{
+    width: 570px;
+}
+
+#ok444
+{
+    width: 500px;
+}
+
+
+.ok4
+{
+    margin-top:20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#ok2222
+{
+    width:800px;
+}
+
+#ok3333
+{
+    width: 600px;
+}
+
+#ok4444
+{
+    width: 400px;
+}
+
+.ok :hover  img
+{
+    width:300px;
+}
